@@ -1,1 +1,1 @@
-# Vue.js ile geliştirilmiş olan Canavar avı uygulaması 
+# Vue.js ile geliştirilmiş olan basit canavar avı oyunu 
